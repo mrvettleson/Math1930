@@ -1,9 +1,6 @@
 # Math1930 Course Materials
 
-![Alternative text](https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg)
-
-
-<src img = "https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg" width = "128" height = "128">
+<img src ="https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg" width = '20%'>
 
 ## Welcome to Math1930. 
 
