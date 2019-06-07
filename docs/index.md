@@ -2,7 +2,7 @@
 
 ![Alternative text](https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg)
 
-<src img = "https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg" width = '10%'>
+<src img = "https://www.ntcmn.edu/directory/wp-content/uploads/sites/51/2017/09/18NTC_Lawrence_Vettleson.jpg" width = '1%'>
 
 ## Welcome to Math1930. 
 
